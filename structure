@@ -1,0 +1,3 @@
+mkdir -p backend/routes frontend/screens
+touch backend/index.js backend/routes/insurance.js backend/package.json
+touch frontend/App.js frontend/screens/InsuranceForm.js frontend/package.json
