@@ -144,11 +144,11 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## **Contributors**
 
-- [Your Name](https://github.com/your-username)
+- [Fardeen Shroff](https://github.com/fardeenshroff)
 - [Contributors List]
 
 ---
 
 ## **Contact**
 
-For any inquiries or feedback, reach out at: **your-email@example.com**.
+For any inquiries or feedback, reach out at: **fshroff1@hawk.iit.edu**.
